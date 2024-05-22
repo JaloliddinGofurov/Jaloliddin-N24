@@ -193,6 +193,12 @@ color: #4a4b4c;
   opacity: 0.6;
 }
 
+/* SITE-HEADER-BANNER */
 .site-header-banner-link {
   display: flex;
+}
+
+/* MANI-CONTENT */
+.main-content {
+  flex-grow: 1;
 }
